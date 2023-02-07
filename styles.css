@@ -1,3 +1,21 @@
+.txt-2 {
+    margin-left: 30%;
+    margin-top: -70px;
+    margin-bottom: 50px;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: 700;
+text-decoration: none;
+color: #00ff22;
+
+}
+.img-4 {
+    margin-top: -60%;
+}
+.img-3 {
+    margin-left: 93%;
+    margin-top: -50%;
+
+}
 body{
     margin: 0;
     padding: 0;
